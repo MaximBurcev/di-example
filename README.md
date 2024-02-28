@@ -1,2 +1,2 @@
 
-# Laravel di-example
+# Laravel DI example
